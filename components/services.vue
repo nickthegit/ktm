@@ -35,12 +35,12 @@ export default {
         "Bulk Excavations"
       ],
       galleryImages: [
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849550/ktm/img_1011.jpg",
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849603/ktm/img_0933.jpg",
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849665/ktm/img_0848.png",
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849617/ktm/img_0929.jpg",
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849560/ktm/img_1134.jpg",
-        "https://res.cloudinary.com/nickjohn/image/upload/v1550849584/ktm/img_0957.png"
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849550/ktm/img_1011.jpg",
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849603/ktm/img_0933.jpg",
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849665/ktm/img_0848.png",
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849617/ktm/img_0929.jpg",
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849560/ktm/img_1134.jpg",
+        "https://res.cloudinary.com/nickjohn/image/upload/w_800/v1550849584/ktm/img_0957.png"
       ]
     };
   },
